@@ -1,2 +1,2 @@
 # Backend API
-Backend for my blog website.
+Backend, expose JSON API for a Front End of choice.
